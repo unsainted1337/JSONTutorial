@@ -1,0 +1,2 @@
+rootProject.name = "JSONTutorial"
+include ':app'
